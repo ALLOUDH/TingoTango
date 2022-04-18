@@ -6,3 +6,4 @@ class TingoTango:
             return "Tingo"
         if(numero % 5 == 0):
             return "Tango"
+        return str(numero)
